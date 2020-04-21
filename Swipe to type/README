@@ -1,0 +1,17 @@
+Problem 1: Iterative Word Suggestion
+
+-> Github Repo : https://github.com/gdsoumya/bobble_take_home
+
+STEPS TO RUN :
+
+	A. Requirements
+
+		1. OS : Windows Vista and newer 
+		2. Python 3+ [32-bit version]
+
+	B. Execute Script
+
+		1. cd source
+		2. python swipe2Type.py
+
+
