@@ -1,7 +1,7 @@
 from collections import defaultdict
 import csv
 
-# find length of LCS (Longest commin substring)
+# find length of LCS (Longest Common Subsequence)
 def lcs(X,Y): 
  
     m = len(X) 
